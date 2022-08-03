@@ -3,7 +3,7 @@ By using all OR ANY PART of this project you MUST follow our license at https://
 
 This includes using parts of our work in yours. If you have questions about the license please contact us.
 
-I (subpum) put this in here because even if it's my repository it's still DYVAUX's legal work. Respect their work.
+I (subpum) put this in here because even if it's my repository it's still DYVAUX's legal assets. Respect their work.
 ___
 
 ## Other:
@@ -80,11 +80,11 @@ READ THE NOTES for how to handle these. Most of these will <ins><b>never</ins></
 
 
 Notes:
-* `sh` and `zh` are sometimes used as allophones for `ll`. Still label it as `ll` for dictionary compatiblity. However, these phonmemes are useful for foreign words.
+* `sh` and `zh` are sometimes used as allophones for `ll`. You should still label them as `ll` for dictionary compatiblity. However, these phonmemes are useful for foreign words.
   
 * Some speakers enounter "yeísmo", or the merging of "ll" and "y". These speakers can label "ll" as `y` instead to slightly reduce the amount of training data needed.
   
-* Some speakers merge the hard and soft "b/d/g" sounds. These speakers can label all "b/d/g" as [`b`/`d`/`g`] and ignore the [`bh`/`dh`/`gh`] phonemes. Speakers without this merger can also drop [`bh`/`dh`/`gh`] to simplify the dataset, which will cause most "b/d/g” instances to sound softer (due to more instances of the soft sound in speech). Doing so also creates a slight risk that the model may use a hard "b/d/g" at an incorrect time.
+* Some speakers merge the hard and soft "b/d/g" sounds. These speakers can label all "b/d/g" as [`b`/`d`/`g`] and ignore the [`bh`/`dh`/`gh`] phonemes. Speakers without this merger can also drop [`bh`/`dh`/`gh`] to simplify the dataset, which will cause most "b/d/g” instances to sound softer (due to more instances of the soft sound in the samples). Doing so also creates a slight risk that the model may use a hard "b/d/g" at an incorrect time.
   
 * Older Romance HED-based banks might use the `y` phoneme as both a consonant AND semivowel. This is due to VRAM saving measures, and is not encouraged with this release, as they're different phonemes. Do not worry if your old data is labeled that way though, as it's still supported.
   
@@ -92,7 +92,7 @@ Notes:
 
 * `f` is used for both devoiced "f" and voiced "v" sounds.
 
-#### Chilean speaker notes: 
-* Upper-class speakers use `ts` instead of `ch`.
-* Lower-class speakers use `sh` instead of `ch`.
-* In most cases you should still label these as `ch` for dictionary compatiblity. Only differenciate if the speaker between `ts`/`sh` and `ch` (optional).
+#### Chilean dialect notes: 
+* Some speakers say `ts` instead of `ch`.
+* Some speakers say `sh` instead of `ch`.
+* In most cases you should still label these as `ch` for dictionary compatiblity. Only differenciate if the speaker wants to support them both (optional).
