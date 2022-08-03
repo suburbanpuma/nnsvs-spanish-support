@@ -92,7 +92,8 @@ Notes:
 
 * `f` is used for both devoiced "f" and voiced "v" sounds.
 
-#### Chilean dialect notes: 
-* Some speakers say `ts` instead of `ch`.
-* Some speakers say `sh` instead of `ch`.
+* Some Chilean speakers say `ts` instead of `ch`.
+
+* Some Chilean speakers say `sh` instead of `ch`.
+
 * In most cases you should still label these as `ch` for dictionary compatiblity. Only differenciate if the speaker wants to support them both (optional).
