@@ -4,7 +4,7 @@ Dictionaries are provided as a convenience. NNSVS/ENUNU doesn't support multi-sy
 
 Explaination of the dictionaries:
 
-blank.table - Standard phonetic table. For training and using voices phonetically rather than lexically.
-DVX_es-default_0.4.txt - Default Spanish dictionary, with full phoneme support.
-DVX_es-simplified_0.4.txt - Simplified dictitonary for datasets created with non-native speakers.
-DVX_es-yeismo_0.4.txt - Same as simplified dictionary, with [ll] replaced with [y] due to yeismo.
+* blank.table - Standard phonetic table. For training and using voices phonetically rather than lexically.
+* DVX_es-default_0.4.txt - Default Spanish dictionary, with full phoneme support.
+* DVX_es-simplified_0.4.txt - Simplified dictitonary for datasets created with non-native speakers.
+* DVX_es-yeismo_0.4.txt - Same as simplified dictionary, with [ll] replaced with [y] due to yeismo.
