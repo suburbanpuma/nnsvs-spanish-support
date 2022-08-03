@@ -65,8 +65,9 @@ ___
 | z       | T       | voiced alveolar fricative          | <ins><b>z</ins></b>eta (<ins><b>z</ins></b> e t a)            |
 
 
-## Dialect Allophones:
-READ THE NOTES for how to handle these. Most of these will <ins><b>never</ins></b> be used.
+## Dialect and Reference Allophones:
+These phonemes are here for reference and proper support. Most of these can be handled contextually, and you <ins><b>shouldn't</ins></b> use them.
+Not that they will blow up your model, but to save VRAM.
 
 | Phoneme | X-SAMPA | Explanation                           | Example               | Dialect                                               |
 |---------|---------|---------------------------------------|-----------------------|-------------------------------------------------------|
