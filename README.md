@@ -1,6 +1,8 @@
 ### NOTICE
 By using all OR ANY PART of this project you MUST follow our license at https://github.com/DYVAUX/nnsvs-english-support/blob/main/LICENSE.md
+
 This includes using parts of our work in yours. If you have questions about the license please contact us.
+
 I (subpum) put this in here because even if it's my repository it's still DYVAUX's legal work. Respect their work.
 ___
 
