@@ -73,7 +73,7 @@ Not that they will blow up your model, but to save VRAM.
 |---------|---------|---------------------------------------|-----------------------|-------------------------------------------------------|
 | ts      | ts      | voiceless alveolar sibilant affricate | <ins><b>ch</ins></b>ala (<ins><b>ts</ins></b> a l a)      | Reference allophone for ch.                           |
 | zh      | Z       | voiced postalveolar fricative         | e<ins><b>ll</ins></b>os (e <ins><b>zh</ins></b> o s)                     | Reference allophone for ll.                           |
-| sh      | S       | voiceless postalveolar fricative      | <ins><b>ch</ins></b>ala (<ins><b>sh</ins></b> a l a)      | Reference allophone for ll/ch.                        |
+| sh      | S       | voiceless postalveolar fricative      | <ins><b>ch</ins></b>ala (<ins><b>sh</ins></b> a l a) e<ins><b>ll</ins></b>os (e <ins><b>sh</ins></b> o s)      | Reference allophone for ll/ch.                        |
 | h       | h       | voiceless glottal fricative           | obi<ins><b>s</ins></b>po (o bv i <ins><b>h</ins></b> p o) | Reference allophone for s/x.                          |
 | v       | v       | voiced labiodental fricative          | a<ins><b>f</ins></b>gano (a <ins><b>v</ins></b> gh a n o) | Reference allophone for f (before voiced consonants). |
 | dj      | J\        | voiced palatal plosive                                      | <ins><b>gu</ins></b>ía (<ins><b>dj</ins></b> i a)                     | Reference allophone for g (before some vowels).       |
