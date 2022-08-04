@@ -10,7 +10,6 @@ ___
 
 | Phoneme | X-SAMPA | Description               |
 | ------- | ------- | --------------------------|
-| br      |         | Deprecated (Inhale)       |
 | exh     |         | Exhale                    |
 | axh     |         | Voiced Exhale             |
 | pau     |         | Silence                   |
