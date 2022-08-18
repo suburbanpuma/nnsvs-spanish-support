@@ -1,5 +1,5 @@
 ### NOTICE
-By using all OR ANY PART of this project you MUST follow the DYVAUX license at https://github.com/suburbanpuma/nnsvs-spanish-support/license.md
+By using all OR ANY PART of this project you MUST follow the DYVAUX license at https://github.com/suburbanpuma/nnsvs-spanish-support/blob/main/license.md
 
 This includes using parts of DYVAUX's work in yours. If you have questions about the license please contact DYVAUX.
 
