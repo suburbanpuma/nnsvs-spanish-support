@@ -6,6 +6,14 @@ This includes using parts of DYVAUX's work in yours. If you have questions about
 I (subpum) put this in here because even if it's my repository it's still DYVAUX's legal assets. Respect their work.
 ___
 
+# Spanish NNSVS Support
+
+Originally made by DYVAUX, this repository contains the files required to create a Spanish dataset for use in NNSVS.
+
+The phoneme set is loosely based on ARPABET (with some X-SAMPA influences) and has been carefully selected to be as intuitive for native speakers as possible.
+
+It includes the HED, dictionary files, and (in the future) phoneme references.
+
 ## Other:
 
 | Phoneme | X-SAMPA | Description               |
@@ -66,7 +74,7 @@ ___
 
 ## Dialect and Reference Allophones:
 These phonemes are here for reference and proper support. Most of these can be handled contextually, and you <ins><b>shouldn't</ins></b> use them.
-Not that they will blow up your model, but to save VRAM.
+Not that they will blow up your model, but not using them saves VRAM.
 
 | Phoneme | X-SAMPA | Explanation                           | Example               | Dialect                                               |
 |---------|---------|---------------------------------------|-----------------------|-------------------------------------------------------|
