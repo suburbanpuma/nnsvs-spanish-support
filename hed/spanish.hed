@@ -1,3 +1,8 @@
+#HED for NNSVS Spanish
+#in_dim: 303(duration/timelag), 307(acoustic)
+#in_rest_idx: 22
+#in_lfx0_idx: 259
+
 #ENUNU specific flags.
 
 #tone flags
